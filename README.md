@@ -1,3 +1,7 @@
-# Desafío 04 - Pizzería Mamma Mía Consumo de APIs con React
+# Desafío 05 - Pizzería Mamma Mía React Router I
 
-Deploy: https://cvegasan.github.io/pizzaMamaMiaHito04-react/
+Instalación:
+npm install
+npm install react-router-dom (Biblioteca que permite implementar el enrutamiento en aplicaciones React)
+npm install react-icons (íconos redes sociales utilizados en el componente Profile)
+
